@@ -1,0 +1,7 @@
+3
+Soft Drink
+0.99
+Coffee
+1.29
+Big Coffee
+1.59

@@ -1,0 +1,9 @@
+1. This program requires a decent knoweldge about "structs" which are used mainly to design the application 
+2. I desined the project depending on 2 classes (Orders and Orders_List)
+Orders_List: is built by a struct that obtains the menu options from the .txt files
+Orders: does all the operations from Assignement1
+3. Besides the two classes mentioned above, few pointers have been added to help the flow of the program 
+4. I have met all requirments for the assignement except handeling the cases where a wrong choice is 
+made by the user after displaying the food menu
+5. many test cases have been thrown at the program to test it as it excutes, and the program passed all tests 
+except dealing with the dummy node and handeling any choice outside the range of the menu 

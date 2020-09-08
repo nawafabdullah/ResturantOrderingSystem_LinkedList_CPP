@@ -1,0 +1,9 @@
+4
+Big Fries
+2.29
+Median Fries
+1.99
+Small Fries
+1.79
+Side Salad
+2.99

@@ -1,0 +1,11 @@
+5
+Big Mac Burger
+5.99
+Mac Burger
+4.99
+Quarter Pounder
+3.99
+Chicken Nuggets
+5.39
+Chicken Salad
+5.79
